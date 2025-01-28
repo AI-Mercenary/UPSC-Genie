@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UPSC-Genie/static/css/main.81547879.css",
+    "main.js": "/UPSC-Genie/static/js/main.edd25a68.js",
+    "static/js/156.766f592b.chunk.js": "/UPSC-Genie/static/js/156.766f592b.chunk.js",
+    "index.html": "/UPSC-Genie/index.html",
+    "main.81547879.css.map": "/UPSC-Genie/static/css/main.81547879.css.map",
+    "main.edd25a68.js.map": "/UPSC-Genie/static/js/main.edd25a68.js.map",
+    "156.766f592b.chunk.js.map": "/UPSC-Genie/static/js/156.766f592b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81547879.css",
+    "static/js/main.edd25a68.js"
+  ]
+}
